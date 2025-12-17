@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Andérson Brito
 
-**`Fullstack Developer | GPSI Student`**
+## **`Fullstack Developer | GPSI Student`**
 
 Hi! I'm Andérson Brito, a 12th-grade GPSI student from Portugal.  
 I am passionate about programming, web development, databases, and electronics.  
